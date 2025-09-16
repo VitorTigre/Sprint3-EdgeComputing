@@ -1,11 +1,11 @@
 Sprint 3 Edge Computing
 👥 Integrantes
 
-Vitor Rodrigues Tigre – RM: 561746
-Josué Faria da Silva – RM: 563819
-Mariana Silva Oliveira – RM: 564241
-Jonas Esteves França – RM: 564143
-Augusto Valério – RM: 562185
+//Vitor Rodrigues Tigre – RM: 561746
+//Josué Faria da Silva – RM: 563819
+//Mariana Silva Oliveira – RM: 564241
+//Jonas Esteves França – RM: 564143
+//Augusto Valério – RM: 562185
 
 📖 Descrição do Projeto
 
